@@ -59,8 +59,5 @@ The dataset includes features like soil nutrients (N, P, K), temperature, humidi
 ## Contributing  
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request for any improvements or suggestions.  
 
-## License  
-This project is licensed under the [MIT License](LICENSE).  
-
 ## Acknowledgments
 - Inspired by the vision of enhancing agricultural productivity through technology.  
