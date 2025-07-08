@@ -5,7 +5,7 @@ This project aims to assist farmers and agricultural stakeholders in selecting t
 
 ## Features  
 - Crop Prediction: Recommends the best crop based on input parameters such as soil type, nitrogen, phosphorus, potassium levels, pH, and weather conditions.  
-- **Machine Learning Model: Trained using a robust dataset to ensure accurate and reliable predictions.  
+- Machine Learning Model: Trained using a robust dataset to ensure accurate and reliable predictions.  
 - User-Friendly Interface: Implemented using Flask, making the system accessible and easy to use.  
 
 ## Technologies Used  
